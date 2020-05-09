@@ -1,0 +1,132 @@
+body{
+  color: #40514E;
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+p{
+  line-height: 2;
+}
+h1{
+  margin-top:0;
+  line-height: 2;
+  font-family: 'Sacramento', cursive;
+  font-size:5.625rem;
+  margin: 50px auto 0 auto;
+  color:  #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  color:  #66BFBF;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+
+}
+
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  left:300px;
+  bottom: 300px;
+
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.code-img{
+float: left;
+margin-right: 30px;
+
+}
+.paint-img{
+  float: right;
+  margin-left:  30px;
+}
+.profile{
+  width: 30%;
+ margin: 100px auto 0 auto;
+}
+hr{
+  border: dotted grey 6px;
+  width:4%;
+  border-bottom: none;
+  margin:150px auto 80px auto;
+  padding-left:10px;
+
+}
+.btn{
+
+}
+.bottom-container{
+  margin-top:100px;
+
+
+}
+.touch{
+  margin-bottom:100px;
+
+}
+.btn {
+	box-shadow:inset 0px 1px 0px 0px #bee2f9;
+	background:linear-gradient(to bottom, #63b8ee 5%, #11cdd4 100%);
+	background-color:#66BFBF;
+	border-radius:8px;
+	border:1px solid #3866a3;
+	display:inline-block;
+	cursor:pointer;
+	color:#14396a;
+	font-family:Arial;
+	font-size:19px;
+	padding:7px 8px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #7cacde;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #468ccf 5%, #63b8ee 100%);
+	background-color:#468ccf;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin:10px 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #EAF6F6;
+}
+.copyright{
+  color:#EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
